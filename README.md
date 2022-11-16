@@ -1,7 +1,6 @@
 - Hi everyone. This is Yizhou Du.
-- I’m interested in Deep Learning and Data Mining.
-- I’m currently learning Blockchain and other security concerned stuff.
-- Reach me by sending emails to yidu9628@uni.sydney.edu.au
+- I am a Ph.D candidate at Xidian University. I am currently working on unmanned system security and applied cryptography.
+- Reach me by sending emails to dyz@stu.xidian.edu.cn
 
 <!---
 yizhouDu/yizhouDu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
